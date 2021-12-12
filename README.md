@@ -1,2 +1,5 @@
 # Hangman_Game
-You will have 5 turns to guess the correct word and save a person 
+A game written in python3, which is a word guessing game, where we have to guess the fill the blanks with correct alphabet to finish the gane which is randomly choosen by the computer system. The game becomes more interesting as well as infuriating as the user gets limited attempt to guess the attempts. If you run out of attempts, then you loose. Also, on the way of answering the number, the game provides you with hints like your answer is lesser or greater as compared to the original number or not.
+# Summary
+The Hangman Game In Python project requires good knowledge of Python which includes defining functions and managing for/while loops. The functions that we use here contain arguments that are defined in a global scope which can be further used in other functions to improve game quality. It can also be used to provide different steps when required to execute upon conditions by the for and while loops.
+The objective of our project is to implement the hangman game using Python. It doesn’t require any specific modules other than random and time. Python loops and functions are enough to build this game here.
